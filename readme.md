@@ -11,3 +11,6 @@ YIP WITH SMARTY TEMPLATE ENGINE
 <li>/cart</li>
 <li>/cart/product/{id}?action=add</li>
 <ul>
+<title>Notes:</title>
+
+<a href="https://www.motopartsarena.com/">This is the link to a live project</a>
