@@ -1,0 +1,5 @@
+logs
+.env
+templates_c
+vendor
+products.json
